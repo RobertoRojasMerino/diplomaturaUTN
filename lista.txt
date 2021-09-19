@@ -2,3 +2,4 @@ reparar
 completar 
 enlistar 
 mover
+cambio nuevo 
