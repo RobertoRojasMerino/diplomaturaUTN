@@ -1,0 +1,4 @@
+reparar 
+completar 
+enlistar 
+mover
